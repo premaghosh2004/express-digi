@@ -1,3 +1,4 @@
+import 'dotenv/config'
 //Building a CRUD(CREATE, READ, UPDATE, DELETE) application
 import express from 'express';
 
